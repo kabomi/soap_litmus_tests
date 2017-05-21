@@ -1,0 +1,1 @@
+node node_modules\karma\bin\karma %* build\karma.conf.js
